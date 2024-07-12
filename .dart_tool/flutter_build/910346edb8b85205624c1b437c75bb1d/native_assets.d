@@ -1,0 +1,1 @@
+ C:\\Users\\DELL\\StudioProjects\\pixabay_api_bloc4-20240712T184312Z-001\\pixabay_api_bloc4\\.dart_tool\\flutter_build\\910346edb8b85205624c1b437c75bb1d\\native_assets.yaml: 
